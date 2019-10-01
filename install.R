@@ -18,6 +18,6 @@ library(devtools)
 install_github("rapporter/pander") # Necessary for optimal results!
 install_github("dcomtois/summarytools")
 
-##
+##11
 devtools::install_github("mangothecat/rmdshower")
 install_github("Pakillo/rmdTemplates")
