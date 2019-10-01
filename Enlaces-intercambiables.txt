@@ -1,0 +1,40 @@
+http://mybinder.org/v2/gh/calote/cursoR/master?filepath=index.ipynb    
+
+- https://hub.gke.mybinder.org/user/calote-cursor-0n1dtaqr/?token=mvV1MRlHSq20U0ojMYkSwQ
+
+
+- Para abrir un notebook jupyter concreto: <https://hub.gke.mybinder.org/user/calote-cursor-0n1dtaqr/notebooks/index.ipynb#>
+
+- Desde Jupyter solicitamos abrir "Shiny": <https://hub.gke.mybinder.org/user/calote-cursor-0n1dtaqr/shiny/>
+
+- Desde Jupyter solicitamos abrir "nuevo jupyter notebook": <https://hub.gke.mybinder.org/user/calote-cursor-0n1dtaqr/notebooks/Untitled.ipynb?kernel_name=python3>
+
+- Desde Jupyter solicitamos abrir "nuevo jupyter notebook para R": <https://hub.gke.mybinder.org/user/calote-cursor-0n1dtaqr/notebooks/Untitled1.ipynb?kernel_name=ir>
+
+
+- He abierto otro navegador Chrome y he puesto una de las anteriores urls y sale un mensaje de "Binder inaccesible": 
+
+- En la url: <https://mybinder.org/>, puede conseguirse una url para arrancar una imagen-docker. Para ello tiene un formulario en el que hay que facilitar la url del repositorio de Github que queramos (pueden usarse otros servicios).
+
+------
+  
+http://mybinder.org/v2/gh/calote/cursoR/master?urlpath=rstudio
+  
+- https://hub.gke.mybinder.org/user/calote-cursor-0n1dtaqr/rstudio/?token=mvV1MRlHSq20U0ojMYkSwQ
+
+------
+
+http://mybinder.org/v2/gh/calote/cursoR/master?urlpath=shiny/aplicacionesShiny/app_dashboard/
+    
+- https://hub.gke.mybinder.org/user/calote-cursor-0n1dtaqr/shiny/aplicacionesShiny/app_dashboard/?token=mvV1MRlHSq20U0ojMYkSwQ
+    
+------
+      
+http://mybinder.org/v2/gh/calote/cursoR/master?urlpath=shiny/aplicacionesShiny/01_hello/  
+  
+- https://hub.gke.mybinder.org/user/calote-cursor-0n1dtaqr/shiny/aplicacionesShiny/01_hello/?token=mvV1MRlHSq20U0ojMYkSwQ
+------
+  
+http://mybinder.org/v2/gh/calote/cursoR/master?urlpath=shiny/aplicacionesShiny/03_reactivity/  
+      
+  - https://hub.gke.mybinder.org/user/calote-cursor-0n1dtaqr/shiny/aplicacionesShiny/03_reactivity/?token=mvV1MRlHSq20U0ojMYkSwQ      

@@ -21,3 +21,5 @@ library(devtools)
 ##11
 #devtools::install_github("mangothecat/rmdshower")
 #install_github("Pakillo/rmdTemplates")
+
+#install.packages(c("caTools","bitops"))

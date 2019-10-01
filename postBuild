@@ -1,0 +1,7 @@
+apt-get update
+apt-get install -y libmagick++-dev
+
+R -e "install.packages(c('caTools','bitops'))"
+R -e "devtools::install_github('rapporter/pander')"
+R -e "remotes::install_github('dcomtois/summarytools',dependencies=TRUE,force=TRUE)"
+R -e "tinytex::install_tinytex()"
